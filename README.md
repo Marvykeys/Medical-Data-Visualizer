@@ -1,4 +1,4 @@
-# Medical-Data-Visualizer
+# Medical-Data-Visualizer :syringe: :bar_chart:
 
 As one of the final tasks at the end of the FREECODECAMP Python For Data Analysis Course
 
@@ -10,7 +10,7 @@ The rows in the dataset represent patients and the columns represent information
 
 File name: medical_examination.csv
 
-# Tasks
+# The Project Tasks
 
 a) Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
 
